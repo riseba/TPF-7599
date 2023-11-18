@@ -1,0 +1,50 @@
+# General
+*.log
+*.aux
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.blg
+*.bbl
+*.toc
+*.idx
+*.ind
+*.ilg
+*.maf
+*.mtc
+*.mtc0
+*.nav
+*.snm
+*.bcf
+*.run.xml
+*.vrb
+*.dvi
+*.backup
+*.sav
+*.tdo
+*.ps
+*.eps
+
+# Compiled output
+*.pdf
+
+# ignore generated nomenclature
+*.nlo
+*.nls
+
+# Mac OSX specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# TeXstudio (a common LaTeX editor)
+*.synctex(busy)
+*.synctex.gz(busy)
+
+# VS Code LaTeX Workshop
+*.pdf.sync.gz
+*-blx.bib
